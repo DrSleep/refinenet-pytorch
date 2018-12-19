@@ -1,6 +1,6 @@
-"""RefineNet-LightWeight-CRP Block
+"""RefineNet-CRP-RCU-blocks in PyTorch
 
-RefineNet-LigthWeight PyTorch for non-commercial purposes
+RefineNet-PyTorch for non-commercial purposes
 
 Copyright (c) 2018, Vladimir Nekrasov (vladimir.nekrasov@adelaide.edu.au)
 All rights reserved.
